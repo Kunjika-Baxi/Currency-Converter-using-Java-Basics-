@@ -1264,5 +1264,9 @@ public class Currency_Converter
             rs=rs*3.67;
             System.out.println("\nU.A.E. Dirham : "+rs);
         }
+        else 
+        {
+            System.out.println("Enter Valid Choices!");
+        }
     }
 }
